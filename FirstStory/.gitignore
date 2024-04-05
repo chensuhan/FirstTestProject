@@ -1,0 +1,13 @@
+##################
+
+Binaries/
+
+Build/
+
+Intermediate/
+
+Saved/
+
+Content/StarterContent
+
+#*.uproject
