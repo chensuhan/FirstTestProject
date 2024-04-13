@@ -8,6 +8,8 @@
 !Config/
 !Config/**/
 
+Content/StarterContent
+
 !*.uasset
 !*.umap
 !*.ini
