@@ -1,13 +1,22 @@
-##################
+# Ignore all
+*/
+/*
 
-Binaries/
+# Avoid ignoring directory
+!Content/
+!Content/**/
+!Config/
+!Config/**/
 
-Build/
+!*.uasset
+!*.umap
+!*.ini
 
-Intermediate/
-
-Saved/
-
-Content/StarterContent
-
-#*.uproject
+# Avoid ignoring default file
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!BFC.uproject
+# Ignore some directory
+.*/
